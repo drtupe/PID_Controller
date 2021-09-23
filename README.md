@@ -55,14 +55,14 @@ As I have used a Manual tuning instead of trying twiddle method for tuning hyper
 
 ---
 
-## Basic Build Instructions
+## Basic Build Instructions:
 
 1. Clone this repo.
 2. Make a build directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
 4. Run it: `./pid`. 
 
-## Code Style
+## Code Style:
 
 [Google's C++ style guide](https://google.github.io/styleguide/cppguide.html).
 

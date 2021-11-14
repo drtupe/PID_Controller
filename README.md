@@ -6,7 +6,7 @@ Given a driving simulator which provides the cross track error (CTE) and the vel
 
 ## Tuning:
 
-The most important part of the project is to tune the hyperparameters. This can be done by different methods suck as manual tuning, Zieglor-Nichols tuning, SGD, Twiddle. I have used manual tuning. Manual tuning is hard but, the process of tuning help us better understand every single effect of PID parameters. The following table summerizes the effect of each parameter on the system.
+The most important part of the project is to tune the hyperparameters. This can be done by different methods such as manual tuning, Zieglor-Nichols tuning, SGD, Twiddle. I have used manual tuning. Manual tuning is hard but, the process of tuning help us better understand every single effect of PID parameters. The following table summerizes the effect of each parameter on the system.
 
 
 | Parameters   | Rise Time     | Overshoot  | Settling Time  | Steadystate error  |
